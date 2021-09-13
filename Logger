@@ -1,0 +1,7 @@
+public class Logger {//base class
+
+    public void log() {
+        System.out.println("Tüm sınıflarda ortak konfigirasyon.");
+
+    }
+}
